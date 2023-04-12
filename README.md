@@ -1,12 +1,8 @@
 <p align="center">
-  <img src="./public/images/logo.png" alt="Logo">
+  
 </p>
 <h1 align="center">Perguntas e Respostas ❓</h1>
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/yourusername/Perguntas-e-Respostas?color=green">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/yourusername/Perguntas-e-Respostas?color=green">
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/yourusername/Perguntas-e-Respostas?color=green">
-</p>
+
 <p align="center">
   <a href="#-sobre-o-projeto">Sobre</a> •
   <a href="#-funcionalidades">Funcionalidades</a> •
